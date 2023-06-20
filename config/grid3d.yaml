@@ -1,0 +1,18 @@
+map:
+  resolution: 0.2
+  free_threshold: 0.13
+  occupancy_threshold: 0.7
+  clamping_min: 0.01
+  clamping_max: 0.99
+  probability_hit: 0.7
+  probability_miss: 0.3
+  initial_count: 10
+  block_size: 30
+  lock_at_max_clamp: false
+  width: 600
+  height: 550
+  depth: 150
+  origin_x: -105
+  origin_y: -95
+  origin_z: -10
+  track_changes: false

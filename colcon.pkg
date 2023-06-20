@@ -1,0 +1,10 @@
+{
+  "name": "map_utils_matlab",
+  "dependencies":
+  {
+    "map_utils",
+    "yaml_utils",
+    "mex_class_wrapper",
+    "mex_conversion_utils"
+  }
+}
