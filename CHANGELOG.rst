@@ -2,6 +2,11 @@
 Changelog for package map_utils_matlab
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2024-03-02)
+------------------
+* updates license
+* Contributors: Wennie Tabib
+
 0.1.0 (2020-06-17)
 ------------------
 * Merge branch 'feature/sliding_grid' into 'develop'
